@@ -1,0 +1,19 @@
+{
+  "name": "alchemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-findFavoriteColor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "ethereum-cryptography": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
